@@ -1,6 +1,6 @@
 Version</h1>
 
-<h3 align="center">Hi i'm Alex and i'm developing a discord bot for AutoRoles.</h3>
+<h3 align="center">Hi i'm Alex and im developing a Moderation and fun bot.</h3>
 
 
 - Description of the bot. **The bot is created with node.js, vs code and discord.js and the host is mongodb.**
